@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <launcher>
+    <branch>stable</branch>
+  </launcher>
+  <autoload>
+    <addon>chatmon</addon>
+    <addon>checkparam</addon>
+    <addon>craft</addon>
+    <addon>distance</addon>
+    <addon>enternity</addon>
+    <addon>FastCS</addon>
+    <addon>findAll</addon>
+    <addon>GearSwap</addon>
+    <addon>macrochanger</addon>
+    <addon>pointwatch</addon>
+    <addon>timestamp</addon>
+    <addon>TParty</addon>
+    <addon>Trusts</addon>
+    <addon>battlemod</addon>
+    <addon>ChatLink</addon>
+    <addon>SetTarget</addon>
+    <addon>latentchecker</addon>
+    <addon>targetinfo</addon>
+    <addon>TreasurePool</addon>
+    <addon>PetSchool</addon>
+    <addon>Omen</addon>
+    <addon>PetTP</addon>
+    <addon>Treasury</addon>
+    <addon>autocontrol</addon>
+    <plugin>DelayMeNot</plugin>
+    <plugin>Timers</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>WinControl</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <uiscale>1</uiscale>
+  </profile>
+  <profile name="KLICKs">
+    <consolekey>Insert</consolekey>
+    <windowmode>Window</windowmode>
+    <uiscale>1</uiscale>
+  </profile>
+</settings>
